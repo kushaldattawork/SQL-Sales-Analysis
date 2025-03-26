@@ -11,9 +11,6 @@ SQL-Sales-Analysis/
 │── reports/
 │   ├── sales_summary.csv
 │   ├── customer_spending.csv
-│── images/
-│   ├── ERD.png
-│   ├── query_results.png
 │── scripts/
 │   ├── data_export.py
 │   ├── visualization.ipynb
